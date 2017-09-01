@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "playparser"
+
+Playparser.config
+Playparser.execute
